@@ -1,0 +1,22 @@
+C:\Users\chandni1\source\repos\ConsoleApp3generics\ConsoleApp3generics\bin\Debug\netcoreapp2.1\ConsoleApp3generics.deps.json
+C:\Users\chandni1\source\repos\ConsoleApp3generics\ConsoleApp3generics\bin\Debug\netcoreapp2.1\ConsoleApp3generics.runtimeconfig.json
+C:\Users\chandni1\source\repos\ConsoleApp3generics\ConsoleApp3generics\bin\Debug\netcoreapp2.1\ConsoleApp3generics.runtimeconfig.dev.json
+C:\Users\chandni1\source\repos\ConsoleApp3generics\ConsoleApp3generics\bin\Debug\netcoreapp2.1\ConsoleApp3generics.dll
+C:\Users\chandni1\source\repos\ConsoleApp3generics\ConsoleApp3generics\bin\Debug\netcoreapp2.1\ConsoleApp3generics.pdb
+C:\Users\chandni1\source\repos\ConsoleApp3generics\ConsoleApp3generics\obj\Debug\netcoreapp2.1\ConsoleApp3generics.csprojAssemblyReference.cache
+C:\Users\chandni1\source\repos\ConsoleApp3generics\ConsoleApp3generics\obj\Debug\netcoreapp2.1\ConsoleApp3generics.csproj.CoreCompileInputs.cache
+C:\Users\chandni1\source\repos\ConsoleApp3generics\ConsoleApp3generics\obj\Debug\netcoreapp2.1\ConsoleApp3generics.AssemblyInfoInputs.cache
+C:\Users\chandni1\source\repos\ConsoleApp3generics\ConsoleApp3generics\obj\Debug\netcoreapp2.1\ConsoleApp3generics.AssemblyInfo.cs
+C:\Users\chandni1\source\repos\ConsoleApp3generics\ConsoleApp3generics\obj\Debug\netcoreapp2.1\ConsoleApp3generics.dll
+C:\Users\chandni1\source\repos\ConsoleApp3generics\ConsoleApp3generics\obj\Debug\netcoreapp2.1\ConsoleApp3generics.pdb
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\ConsoleApp3generics\ConsoleApp3generics\bin\Debug\netcoreapp2.1\ConsoleApp3generics.deps.json
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\ConsoleApp3generics\ConsoleApp3generics\bin\Debug\netcoreapp2.1\ConsoleApp3generics.runtimeconfig.json
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\ConsoleApp3generics\ConsoleApp3generics\bin\Debug\netcoreapp2.1\ConsoleApp3generics.runtimeconfig.dev.json
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\ConsoleApp3generics\ConsoleApp3generics\bin\Debug\netcoreapp2.1\ConsoleApp3generics.dll
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\ConsoleApp3generics\ConsoleApp3generics\bin\Debug\netcoreapp2.1\ConsoleApp3generics.pdb
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\ConsoleApp3generics\ConsoleApp3generics\obj\Debug\netcoreapp2.1\ConsoleApp3generics.csprojAssemblyReference.cache
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\ConsoleApp3generics\ConsoleApp3generics\obj\Debug\netcoreapp2.1\ConsoleApp3generics.csproj.CoreCompileInputs.cache
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\ConsoleApp3generics\ConsoleApp3generics\obj\Debug\netcoreapp2.1\ConsoleApp3generics.AssemblyInfoInputs.cache
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\ConsoleApp3generics\ConsoleApp3generics\obj\Debug\netcoreapp2.1\ConsoleApp3generics.AssemblyInfo.cs
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\ConsoleApp3generics\ConsoleApp3generics\obj\Debug\netcoreapp2.1\ConsoleApp3generics.dll
+C:\Users\chandni1\Desktop\MVC_Practice Projects\MVC_Practice Projects\ConsoleApp3generics\ConsoleApp3generics\obj\Debug\netcoreapp2.1\ConsoleApp3generics.pdb
